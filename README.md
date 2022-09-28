@@ -2,7 +2,7 @@
 I am currently studying publishing.
 I am interested in designing and publishing web pages.
 
-:art: Design
+:art: Design 
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
 
 <!--
