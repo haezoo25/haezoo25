@@ -14,7 +14,9 @@ Interested in Web designing and publishing / Javascript, react.
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
 
 --------------------------------------
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+![header](https://capsule-render.vercel.app/api?type=${waving}&color=auto&height=${200}&section=header&text=${ }&fontSize=${ }&animation=${ })
+
+
 <!-- ![haezoo25ID's github stats](https://github-readme-stats.vercel.app/api?username=haezoo25ID&show_icons=true) -->
 
 <!--
