@@ -14,7 +14,8 @@ Interested in Web designing and publishing / Javascript, react.
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
 
 --------------------------------------
-![haezoo25ID's github stats](https://github-readme-stats.vercel.app/api?username=haezoo25ID&show_icons=true)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+<!-- ![haezoo25ID's github stats](https://github-readme-stats.vercel.app/api?username=haezoo25ID&show_icons=true) -->
 
 <!--
 **haezoo25/haezoo25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
