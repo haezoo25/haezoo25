@@ -1,5 +1,5 @@
 ### 👋 Hi there! I'm UX·UI Designer.
-I am currently studying publishing.
+I am currently studying publishing.<br>
 Interested in Web designing and publishing / Javascript, react.
 
 --------------------------------------
