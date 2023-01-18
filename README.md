@@ -6,7 +6,7 @@ Interested in Web designing and publishing / Javascript, react.
 
 :art: Design <br><br>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
-<img src="https://img.shields.io/badge/AdobeXD-FF61F6?style=for-the-badge&logo=AdobeXD&logoColor=white">
+<img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=for-the-badge&logo=AdobeXD&logoColor=white">
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=white">
 <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=Adobe Illustrator&logoColor=white">
 
