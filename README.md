@@ -9,6 +9,9 @@ Interested in Web designing and publishing / Javascript, react.
 <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=for-the-badge&logo=AdobeXD&logoColor=white">
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=white">
 <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=Adobe Illustrator&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=for-the-badge&logo=AdobePremierePro&logoColor=white">
+<img src="https://img.shields.io/badge/AdobeXD-FF61F6?style=for-the-badge&logo=AdobeXD&logoColor=white">
 
 :green_heart: Used <br><br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
